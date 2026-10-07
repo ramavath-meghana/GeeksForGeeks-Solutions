@@ -5,6 +5,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Companies Start-->
 # GeeksForGeeks Companies
 
@@ -13,10 +14,17 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [last-digit-of-ab](https://github.com/ramavath-meghana/GeeksForGeeks-Solutions/tree/main/last-digit-of-ab/) | Medium |
 
+## NPCI
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0min-and-max-in-array](https://github.com/ramavath-meghana/GeeksForGeeks-Solutions/tree/main/0min-and-max-in-array/) | Basic |
+
 <!---GeeksForGeeks Companies End-->
 
 
+
 <hr>
+
 
 
 
@@ -33,5 +41,16 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [last-digit-of-ab](https://github.com/ramavath-meghana/GeeksForGeeks-Solutions/tree/main/last-digit-of-ab/) | Medium |
 
+## Arrays
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0min-and-max-in-array](https://github.com/ramavath-meghana/GeeksForGeeks-Solutions/tree/main/0min-and-max-in-array/) | Basic |
+
+## Maximum And Minimum In An Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0min-and-max-in-array](https://github.com/ramavath-meghana/GeeksForGeeks-Solutions/tree/main/0min-and-max-in-array/) | Basic |
+
 <!---GeeksForGeeks Tags End-->
+
 
