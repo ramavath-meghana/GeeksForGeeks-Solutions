@@ -28,6 +28,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Tags Start-->
 # GeeksForGeeks Tags
 
@@ -45,12 +46,34 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0min-and-max-in-array](https://github.com/ramavath-meghana/GeeksForGeeks-Solutions/tree/main/0min-and-max-in-array/) | Basic |
+| [array-search](https://github.com/ramavath-meghana/GeeksForGeeks-Solutions/tree/main/array-search/) | Basic |
 
 ## Maximum And Minimum In An Array
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0min-and-max-in-array](https://github.com/ramavath-meghana/GeeksForGeeks-Solutions/tree/main/0min-and-max-in-array/) | Basic |
 
+## Searching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [array-search](https://github.com/ramavath-meghana/GeeksForGeeks-Solutions/tree/main/array-search/) | Basic |
+
+## Cpp Program For Linear Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [array-search](https://github.com/ramavath-meghana/GeeksForGeeks-Solutions/tree/main/array-search/) | Basic |
+
+## Java Program For Linear Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [array-search](https://github.com/ramavath-meghana/GeeksForGeeks-Solutions/tree/main/array-search/) | Basic |
+
+## Linear Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [array-search](https://github.com/ramavath-meghana/GeeksForGeeks-Solutions/tree/main/array-search/) | Basic |
+
 <!---GeeksForGeeks Tags End-->
+
 
 
