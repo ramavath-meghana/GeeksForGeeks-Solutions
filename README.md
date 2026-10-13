@@ -6,6 +6,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Companies Start-->
 # GeeksForGeeks Companies
 
@@ -19,11 +20,38 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [0min-and-max-in-array](https://github.com/ramavath-meghana/GeeksForGeeks-Solutions/tree/main/0min-and-max-in-array/) | Basic |
 
+## Paytm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [frequencies-in-a-limited-array](https://github.com/ramavath-meghana/GeeksForGeeks-Solutions/tree/main/frequencies-in-a-limited-array/) | Easy |
+
+## VMWare
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [frequencies-in-a-limited-array](https://github.com/ramavath-meghana/GeeksForGeeks-Solutions/tree/main/frequencies-in-a-limited-array/) | Easy |
+
+## Zoho
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [frequencies-in-a-limited-array](https://github.com/ramavath-meghana/GeeksForGeeks-Solutions/tree/main/frequencies-in-a-limited-array/) | Easy |
+
+## Amazon
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [frequencies-in-a-limited-array](https://github.com/ramavath-meghana/GeeksForGeeks-Solutions/tree/main/frequencies-in-a-limited-array/) | Easy |
+
+## Microsoft
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [frequencies-in-a-limited-array](https://github.com/ramavath-meghana/GeeksForGeeks-Solutions/tree/main/frequencies-in-a-limited-array/) | Easy |
+
 <!---GeeksForGeeks Companies End-->
 
 
 
+
 <hr>
+
 
 
 
@@ -47,6 +75,7 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [0min-and-max-in-array](https://github.com/ramavath-meghana/GeeksForGeeks-Solutions/tree/main/0min-and-max-in-array/) | Basic |
 | [array-search](https://github.com/ramavath-meghana/GeeksForGeeks-Solutions/tree/main/array-search/) | Basic |
+| [frequencies-in-a-limited-array](https://github.com/ramavath-meghana/GeeksForGeeks-Solutions/tree/main/frequencies-in-a-limited-array/) | Easy |
 
 ## Maximum And Minimum In An Array
 | Problem Name | Difficulty |
@@ -73,7 +102,23 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [array-search](https://github.com/ramavath-meghana/GeeksForGeeks-Solutions/tree/main/array-search/) | Basic |
 
+## Hash
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [frequencies-in-a-limited-array](https://github.com/ramavath-meghana/GeeksForGeeks-Solutions/tree/main/frequencies-in-a-limited-array/) | Easy |
+
+## Zoho Interview Experience Set 17
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [frequencies-in-a-limited-array](https://github.com/ramavath-meghana/GeeksForGeeks-Solutions/tree/main/frequencies-in-a-limited-array/) | Easy |
+
+## Www.geeksforgeeks.org
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [frequencies-in-a-limited-array](https://github.com/ramavath-meghana/GeeksForGeeks-Solutions/tree/main/frequencies-in-a-limited-array/) | Easy |
+
 <!---GeeksForGeeks Tags End-->
+
 
 
 
